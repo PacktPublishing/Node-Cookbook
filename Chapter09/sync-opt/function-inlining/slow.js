@@ -2,7 +2,7 @@
 
 function divideByAndSum (num, array) {
   try {
-    array.map(function (item) {
+    return array.map(function (item) {
       return item / num
     }).reduce(function (acc, item) {
       return acc + item
