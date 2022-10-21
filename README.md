@@ -32,7 +32,3 @@ The following is a list of the software that is required to run the examples in 
 * [Cross-platform Desktop Application Development: Electron, Node, NW.js, and React](https://www.packtpub.com/web-development/cross-platform-desktop-application-development-electron-node-nwjs-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781788295697)
 
 * [Building Bots with Node.js](https://www.packtpub.com/application-development/building-bots-nodejs?utm_source=github&utm_medium=repository&utm_campaign=9781786465450)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781785880087">https://packt.link/free-ebook/9781785880087 </a> </p>
