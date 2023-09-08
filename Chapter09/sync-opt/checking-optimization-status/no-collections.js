@@ -10,6 +10,7 @@ function divideByAndSum (num, array) {
     // to guard for division by zero
     return 0
   }
+  return result
 }
 
 module.exports = divideByAndSum
